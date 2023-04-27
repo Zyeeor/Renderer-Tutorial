@@ -1,5 +1,4 @@
 # A easy-learning renderer based on C++.
-[![wakatime](https://wakatime.com/badge/github/Zyeeor/Renderer-Tutorial.svg)](https://wakatime.com/badge/github/Zyeeor/Renderer-Tutorial)
 # 一个基于C++的简单易学的软渲染器
 ## 目前实现的功能：
 - 三角形的光栅化
