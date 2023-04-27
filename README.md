@@ -1,5 +1,7 @@
 # A easy-learning renderer based on C++.
-# 一个基于C++的简单易学的软渲染器，目前实现的功能有单个三角形的光栅化
+# 一个基于C++的简单易学的软渲染器
+## 目前实现的功能：
+- 三角形的光栅化
 ## Todo List:
 - 从零开始写一个 CPU 渲染器的教程
 - Triangle 类的封装
