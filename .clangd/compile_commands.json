@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/Users/yantazzzzz/Desktop/RendererTutorial",
+  "arguments": ["/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang", "-c", "-Qunused-arguments", "-target", "arm64-apple-macos13.2", "-isysroot", "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk", "-std=c++17", "-I/opt/homebrew/Cellar/opencv/4.7.0_4/include/opencv4", "-I", "/opt/homebrew/Cellar/opencv/4.7.0_4/include", "-o", "build/.objs/RendererTutorial/macosx/arm64/release/main.cpp.o", "main.cpp"],
+  "file": "main.cpp"
+}]
